@@ -1,7 +1,5 @@
 using System;
 using UnityEngine;
-using UnityEngine.Rendering;
-using UnityEditor.Rendering.LWRP;
 using UnityEditor;
 
 namespace kTools.kShadingEditor
